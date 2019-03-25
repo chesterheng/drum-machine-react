@@ -1,0 +1,8 @@
+.drum-pad {
+	display: flex;
+	align-items: center;
+  justify-content: center;
+  margin-left: 2%;
+  margin-bottom: 2%;
+	flex: 1 0 30%;
+}
